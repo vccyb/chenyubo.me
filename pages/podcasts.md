@@ -1,5 +1,5 @@
 ---
-title: Podcasts - Anthony Fu
+title: Podcasts
 display: ''
 plum: true
 items:

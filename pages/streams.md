@@ -1,5 +1,5 @@
 ---
-title: Streams - Anthony Fu
+title: Streams
 display: ''
 plum: true
 items:
